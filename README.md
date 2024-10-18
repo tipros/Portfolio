@@ -1,4 +1,4 @@
-# Data Science Portfolio
+# Data Analytics and Data Science Portfolio
 This Portfolio is a compilation of all the Data Science and Data Analysis projects I have done for self-learning and hobby purposes.
 
 ## Learning Projects
