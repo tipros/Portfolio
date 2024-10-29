@@ -26,7 +26,7 @@ The objective of this project is to use the Pandas library to read datasets, fil
 
 <tr><td>  
 <img align="left" width="200" height="150" src="https://github.com/tipros/Portfolio/blob/main/Projects/Excel/excel-logo-0.png"/><a href="https://github.com/tipros/Portfolio/tree/main/Projects/Excel"><b>Excel</b></a><br/>
-The objective of this project is to leverage Excel to create pivot tables from a dataset.
+The objective of this project is to leverage Excel to create pivot tables from a dataset, and use common formulas for data clean-up and statistics.
 </td></tr>
 
 </table>
