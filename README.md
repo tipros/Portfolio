@@ -26,7 +26,7 @@ The objective of this project is to use the Pandas library to read datasets, fil
 
 <tr><td>  
 <img align="left" width="200" height="150" src="https://github.com/tipros/Portfolio/blob/main/Projects/Excel/excel-logo-0.png"/><a href="https://github.com/tipros/Portfolio/tree/main/Projects/Excel"><b>Excel</b></a><br/>
-The objective of this project is to leverage Excel to create PIVOT tables from a dataset, use XLOOKUP , and use common formulas for data clean-up and statistics.
+The objective of this project is to leverage Excel to create PIVOT tables from a dataset, use XLOOKUP , use common formulas for data clean-up and statistics, and use conditional formatting.
 </td></tr>
 
 </table>
