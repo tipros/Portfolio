@@ -3,30 +3,35 @@ This Portfolio is a compilation of all the Microsoft AI, Data Science and Data A
 
 ## Learning Projects
 <table border="0" width="50%">
+
+<tr><td>
+<img align="left" width="200" height="150" src="https://github.com/tipros/Portfolio/blob/main/Projects/CarAnalysis/OIP.jpg"/><b><a href="https://github.com/tipros/Portfolio/blob/main/Projects/CarAnalysis/">Car Analysis</a></b><br/>
+This project aims to analyze a car dataset obtained from Kaggle, focusing on visualizing the relationship between the prices of used cars from a particular year and their mileage (number of kilometers traveled) through the creation of a scatter plot.<br/>
+</td></tr>
   
 <tr><td>
 <img align="left" width="200" height="150" src="https://github.com/tipros/Portfolio/blob/main/Projects/CrimeAnalysis/crime-red-text-between-blue-binary-data-on-screen.jpeg"/><b><a href="https://github.com/tipros/Portfolio/tree/main/Projects/CrimeAnalysis">Crime Analysis</a></b><br/>
-The objective of this project is to explore the data of over 319,000 crime incidents. Bar graphs are generated to identify the top 10 offenses, number of crimes per year, number of crimes by day of the week, and number of crimes by hour of the day. Heat maps were created to visualize the number of crimes by hour and by day of the week, and to identify which districts had the most crime by year.<br/>
+This project focuses on analyzing data from over 319,000 crime incidents. Bar charts are utilized to highlight the top 10 offenses, the annual crime trends, the distribution of crimes by day of the week, and the frequency of crimes by hour of the day. Additionally, heat maps are employed to illustrate the density of crimes by hour and day of the week, as well as to pinpoint the districts with the highest crime rates each year.<br/>
 </td></tr>
   
 <tr><td>
 <img align="left" width="200" height="150" src="https://github.com/tipros/Portfolio/blob/main/Projects/WorldPopulation/World-population-surrounding-the-Earth-scaled.jpeg"/><b><a href="https://github.com/tipros/Portfolio/tree/main/Projects/WorldPopulation">World Population Analysis</a></b><br/>
-The objective of this project is to explore the data of the world population between 1970 and 2022. Data was transposed to plot the trending world population by continent.<br/>
+This project aims to analyze world population data from 1970 to 2022. The data was reorganized to visualize population trends by continent through plotted graphs.<br/>
 </td></tr>
 
 <tr><td>  
 <img align="left" width="200" height="150" src="https://github.com/tipros/Portfolio/blob/main/Projects/ExportToExcel/OIP.jpg"/><a href="https://github.com/tipros/Portfolio/tree/main/Projects/ExportToExcel"><b>Export to Excel</b></a><br/>
-The objective of this project is to retrieve a dataset directly from Kaggle, renaming the dataset columns, and then exporting the data to Excel.<br/>
+This project aims to obtain a dataset directly from Kaggle, rename its columns, and export the processed data to an Excel file.<br/>
 <tr><td>
 
 <tr><td>  
 <img align="left" width="200" height="150" src="https://github.com/tipros/Portfolio/blob/main/Projects/Pandas/python_pandas.jpg"/><a href="https://github.com/tipros/Portfolio/tree/main/Projects/Pandas"><b>Pandas</b></a><br/>
-The objective of this project is to use the Pandas library to read datasets, filter/sort data, index data, aggregate / join / merge / concatenate data, generate visualization charts from a dataset, and peform data cleaning.
+This project focuses on utilizing the Pandas library to perform various data manipulation tasks, including reading datasets, filtering and sorting data, indexing, aggregating, joining, merging, concatenating, generating visualization charts, and conducting data cleaning.
 </td></tr>
 
 <tr><td>  
 <img align="left" width="200" height="150" src="https://github.com/tipros/Portfolio/blob/main/Projects/Excel/excel-logo-0.png"/><a href="https://github.com/tipros/Portfolio/tree/main/Projects/Excel"><b>Excel</b></a><br/>
-The objective of this project is to leverage Excel to create PIVOT tables from a dataset, use XLOOKUP, use common formulas for data clean-up and statistics, conditional formatting, generate charts, data clean-up exercise, and creating a dashboard.
+This project aims to utilize Excel for tasks such as creating PIVOT tables from a dataset, applying XLOOKUP, using common formulas for data cleaning and statistical analysis, implementing conditional formatting, generating charts, performing data cleaning exercises, and building a dashboard.
 </td></tr>
 
 </table>
