@@ -5,6 +5,11 @@ This Portfolio is a compilation of all the Microsoft AI, Data Science and Data A
 <table border="0" width="50%">
 
 <tr><td>
+<img align="left" width="200" height="150" src="https://github.com/tipros/Portfolio/blob/main/Projects/Azure/Images/azure-data-factory.png"/><b><a href="https://github.com/tipros/Portfolio/blob/main/Projects/Azure/DataFactory.md">Azure Data Factory</a></b><br/>
+This project focuses on acquiring knowledge and skills in data ingestion, transformation, and exporting within Azure Data Factory.<br/>
+</td></tr>
+
+<tr><td>
 <img align="left" width="200" height="150" src="https://github.com/tipros/Portfolio/blob/main/Projects/CarAnalysis/OIP.jpg"/><b><a href="https://github.com/tipros/Portfolio/blob/main/Projects/CarAnalysis/">Car Analysis</a></b><br/>
 This project aims to analyze a car dataset obtained from Kaggle, focusing on visualizing the relationship between the prices of used cars from a particular year and their mileage (number of kilometers traveled) through the creation of a scatter plot.<br/>
 </td></tr>
