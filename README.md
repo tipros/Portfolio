@@ -3,7 +3,11 @@ This Portfolio is a compilation of all the Microsoft AI, Data Science and Data A
 
 ## Learning Projects
 <table border="0" width="50%">
-
+<tr><td>
+<img align="left" width="200" height="150" src="https://github.com/tipros/Portfolio/blob/main/Projects/Azure/Images/OIP.jpg"/><b><a href="https://github.com/tipros/Portfolio/blob/main/Projects/Azure/SynapseAnalytics.md">Azure Synapse Analytics</a></b><br/>
+This project focuses on acquiring knowledge and skills in data analytics within Azure Synapse Factory.<br/>
+</td></tr>
+  
 <tr><td>
 <img align="left" width="200" height="150" src="https://github.com/tipros/Portfolio/blob/main/Projects/Azure/Images/azure-data-factory.png"/><b><a href="https://github.com/tipros/Portfolio/blob/main/Projects/Azure/DataFactory.md">Azure Data Factory</a></b><br/>
 This project focuses on acquiring knowledge and skills in data ingestion, transformation, and exporting within Azure Data Factory.<br/>
