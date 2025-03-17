@@ -26,7 +26,13 @@ From there, a connection can be used to connect to different types of sources. F
 <p><img src="https://github.com/tipros/Portfolio/blob/main/Projects/Azure/Images/synapsesourcesmaplegallery.png"/></p>
 The NYC sample is selected and a preview of the data is displayed.
 <p><img src="https://github.com/tipros/Portfolio/blob/main/Projects/Azure/Images/synapsesourcesmaplegallerynyc.png"/></p>
-
+The sample data can be saved and will show in the list of linked data sets.
+<p><img src="https://github.com/tipros/Portfolio/blob/main/Projects/Azure/Images/synapsesourcesmaplegallerynycds.png"/></p>
+The data can be queried and filtered, and charts can be generated.
+<p><img src="https://github.com/tipros/Portfolio/blob/main/Projects/Azure/Images/synapsesourcesmaplegallerynycgraph.png"/></p>
+The data can be connected the Sparks pool, and then the data can be manipulated similarly to a Juypter Notebook.
+<p><img src="https://github.com/tipros/Portfolio/blob/main/Projects/Azure/Images/synapsesourcesmaplegallerynycnotebook.png"/></p>
+<p><img src="https://github.com/tipros/Portfolio/blob/main/Projects/Azure/Images/synapsesourcesmaplegallerynycnotebookshowframe.png"/></p>
 
 
 
