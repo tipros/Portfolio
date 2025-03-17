@@ -1,10 +1,10 @@
-# Microsoft Azure AI, Data Analytics and Data Science Portfolio
+ # Microsoft Azure AI, Data Analytics and Data Science Portfolio
 This Portfolio is a compilation of all the Microsoft AI, Data Science and Data Analysis projects I have done for self-learning and hobby purposes.
 
 ## Learning Projects
 <table border="0" width="50%">
 <tr><td>
-<img align="left" width="200" height="150" src="https://github.com/tipros/Portfolio/blob/main/Projects/Azure/Images/AI-Hardware-tech.jpg"/><b><a href="https://github.com/tipros/Portfolio/blob/main/Projects/Azure/SynapseAnalytics.md">Consume AI Service</a></b><br/>
+<img align="left" width="200" height="150" src="https://github.com/tipros/Portfolio/blob/main/Projects/Azure/Images/AI-Hardware-tech.jpg"/><b><a href="https://github.com/tipros/Portfolio/blob/main/Projects/Azure/CreateandConsumeAIService.md">Consume AI Service</a></b><br/>
 This project aims to gain an understanding of how to build an AI service and utilize it through a REST API and SDK.<br/>
 </td></tr>
   
