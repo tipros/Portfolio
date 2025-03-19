@@ -6,12 +6,12 @@ This Portfolio is a compilation of all the Microsoft Azure AI, Data Science and 
 
 <tr><td>
 <img align="left" width="200" height="200" src="https://github.com/tipros/Portfolio/blob/main/Projects/Azure/Images/OIP-KeyVaultIcon.jpg"/><b><a href="https://github.com/tipros/Portfolio/blob/main/Projects/Azure/SecurityVault.md">Consume AI Service Using Key Vault</a></b><br/>
-This project aims to gain an understanding of Azure security and using an application to connect to an AI service using the Key Vault.<br/>
+This project aims to gain an understanding of Azure security and using an application to connect to an Azure AI service using the Key Vault.<br/>
 </td></tr>
  
 <tr><td>
 <img align="left" width="200" height="150" src="https://github.com/tipros/Portfolio/blob/main/Projects/Azure/Images/AI-Hardware-tech.jpg"/><b><a href="https://github.com/tipros/Portfolio/blob/main/Projects/Azure/CreateandConsumeAIService.md">Consume AI Service with REST API and SDK</a></b><br/>
-This project aims to gain an understanding of how to build an AI service and utilize it through a REST API and SDK.<br/>
+This project aims to gain an understanding of how to build an Azure AI service and utilize it through a REST API and SDK.<br/>
 </td></tr>
   
 <tr><td>
