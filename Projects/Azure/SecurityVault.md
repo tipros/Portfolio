@@ -3,7 +3,8 @@
 Access to Azure AI services is controlled through authentication keys, which are generated when an Azure AI services resource is created.
 <p><img height="400" widht="400" src="https://github.com/tipros/Portfolio/blob/main/Projects/Azure/Images/azure-key-vault.png"/></p>
 
-From VS Code, the code below will be cloned from https://github.com/MicrosoftLearning/mslearn-ai-services.
+From VS Code, the code below will be cloned from https://github.com/MicrosoftLearning/mslearn-ai-services
+</br>The code has both C# and Python code. Python will be used.
 <p><img src="https://github.com/tipros/Portfolio/blob/main/Projects/Azure/Images/vscodelab2.png"/></p>
 
 From an existing AI resource, replace the end-point and key from the file below:
