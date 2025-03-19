@@ -1,5 +1,5 @@
  # Microsoft Azure AI, Data Analytics and Data Science Portfolio
-This Portfolio is a compilation of all the Microsoft AI, Data Science and Data Analysis projects I have done for self-learning and hobby purposes.
+This Portfolio is a compilation of all the Microsoft Azure AI, Data Science and Data Analysis projects I have done for self-learning and hobby purposes.
 
 ## Learning Projects
 <table border="0" width="50%">
