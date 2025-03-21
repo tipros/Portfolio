@@ -32,7 +32,11 @@ Click on the details of the alert to get more information.
 <p><img src="https://github.com/tipros/Portfolio/blob/main/Projects/Azure/Images/alertdetail.png"/></p>
 
 # Create Metrics Dashboard
-<p><img src=""/></p>
-<p><img src=""/></p>
-<p><img src=""/></p>
-<p><img src=""/></p>
+To create a metric dashboard, select Monitoring and Metrics, then create a new chart.The metric to visualize will be Total Calls,
+and in the Aggregation list, Count is selected.
+<p><img src="https://github.com/tipros/Portfolio/blob/main/Projects/Azure/Images/metricdb.png"/></p>
+In VS Code for the lab for this exercise, the endpoint URL and keys are updated, then the cmd file is executed to trigger the metrics.
+<p><img src="https://github.com/tipros/Portfolio/blob/main/Projects/Azure/Images/VSCodeLab3TestCmd.png"/></p>
+After a few mins, the metrics can be visualized in the previously created metric.
+<p><img src="https://github.com/tipros/Portfolio/blob/main/Projects/Azure/Images/metricdbdata.png"/></p>
+
