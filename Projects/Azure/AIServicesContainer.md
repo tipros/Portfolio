@@ -18,7 +18,7 @@ A wizard will guide through the creation of the container. Below are the options
 <li>Image type: Public</li>
 <li><b>Image: mcr.microsoft.com/azure-cognitive-services/textanalytics/sentiment:latest</b></li>
 <li>OS type: Linux</li>
-<li>Size: 1 vcpu, 8 GB memory</li>
+<li>Size: 1 vcpu, 8 GB memory <i>(use this exact config, as this matches the above image)</i></li>
 </ol>
 </br>
 For the network options, set to public, provide a unique name, and change the port from 80 to 5000.
@@ -30,14 +30,14 @@ and Billing is the URL of the endpoint of the AI Services resource.
 It takes 5-10 minutes to deploy the container. Once the container is in the status "Running", in the overview of the container are
 IP address and FDQN of the container. Either the IP address or FDQN can be copied to a web browser with the port 5000, and the following page will be shown.
 <p><img src="https://github.com/tipros/Portfolio/blob/main/Projects/Azure/Images/container.png"/></p>
-<p><img src=""/></p>
 
 # Calling an AI Service from a Container
 From VS Code in Lab 4, update the URL with that of the container with either the IP address or FDQN.
 <p><img src="https://github.com/tipros/Portfolio/blob/main/Projects/Azure/Images/VSCodeLab4TestCmd.png"/></p>
 Execute the command> ./rest-test.cmd
 </br>
-The result will be a JSON reponse similar to below, provide a sentiment score from the input provided.
+The result will be a JSON reponse similar to below, providing a sentiment score from the input provided.
+</br>
 </br>
 {"documents":[{"id":"1","sentiment":"positive","confidenceScores":{"positive":0.99,"neutral":0.0,"negative":0.0},
 "sentences":[{"sentiment":"positive","confidenceScores":{"positive":0.99,"neutral":0.0,"negative":0.0},"offset":0,"length":29,"text":"The performance was amazing! "},
