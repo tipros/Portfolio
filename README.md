@@ -5,6 +5,11 @@ This Portfolio is a compilation of all the Microsoft Azure AI, Data Science and 
 <table border="0" width="50%">
 
 <tr><td>
+<img align="left" width="200" height="150" src="https://github.com/tipros/Portfolio/blob/main/Projects/Azure/Images/container.png"/><b><a href="https://github.com/tipros/Portfolio/blob/main/Projects/Azure/AIServicesContainer.md">AI Service in Container</a></b><br/>
+This Azure AI project aims to demonstrate to call an AI Service from a container.<br/>
+</td></tr>
+
+<tr><td>
 <img align="left" width="200" height="150" src="https://github.com/tipros/Portfolio/blob/main/Projects/Azure/Images/Azure-Reporting-monitoring-and-alerting-dashboard.jpg"/><b><a href="https://github.com/tipros/Portfolio/blob/main/Projects/Azure/MonitorService.md">Monitor AI Service</a></b><br/>
 This Azure AI project aims to demonstrate how to monitor an AI service with alerts and metrics.<br/>
 </td></tr>
