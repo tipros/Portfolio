@@ -22,7 +22,7 @@ The results are as follow:
 With the last test run in Azure AI Foundy, code is provided in C# or Python. The Python code is copied and can be found 
 [here.](https://github.com/tipros/Portfolio/blob/main/Projects/Azure/Code/prompt-shield.py)
 </br>
-In VS Code, update the settings below with API Key and URL endpoint for the Azure AI Content Safety resource.
+In VS Code, update the settings below with API Key and URL endpoint for the Azure AI Content Safety resource. In the addition, the prompt needs to be updated in the code as well.
 <p><img src="https://github.com/tipros/Portfolio/blob/main/Projects/Azure/Images/vscodecontentsafety.png"/></p>
 When the code is executed, the results should similar to below:
 </br>
