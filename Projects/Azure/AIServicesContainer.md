@@ -3,7 +3,7 @@
 In this exercise, an AI service will be called from an container. An existing AI service will be used, and the Git Hub code used to call the service is lab 4 from the repository: 
 https://github.com/MicrosoftLearning/mslearn-ai-services
 
-# Create Container
+## Create Container
 Search Container Instances in the market place to create a new container.
 <p><img src="https://github.com/tipros/Portfolio/blob/main/Projects/Azure/Images/containerinstancemarket.png"/></p>
 A wizard will guide through the creation of the container. Below are the options to select:
@@ -31,7 +31,7 @@ It takes 5-10 minutes to deploy the container. Once the container is in the stat
 IP address and FDQN of the container. Either the IP address or FDQN can be copied to a web browser with the port 5000, and the following page will be shown.
 <p><img src="https://github.com/tipros/Portfolio/blob/main/Projects/Azure/Images/container.png"/></p>
 
-# Calling an AI Service from a Container
+## Calling an AI Service from a Container
 From VS Code in Lab 4, update the URL with that of the container with either the IP address or FDQN.
 <p><img src="https://github.com/tipros/Portfolio/blob/main/Projects/Azure/Images/VSCodeLab4TestCmd.png"/></p>
 Execute the command> ./rest-test.cmd
