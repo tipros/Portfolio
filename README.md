@@ -5,8 +5,13 @@ This Portfolio is a compilation of all the Microsoft Azure AI, Data Science and 
 <table border="0" width="50%">
 
 <tr><td>
+<img align="left" width="200" height="150" src="https://github.com/tipros/Portfolio/blob/main/Projects/Azure/Images/Vision/1_RGkNIHeLv2JbjUSeojZIOA.jpg"/><b><a href="https://github.com/tipros/Portfolio/blob/main/Projects/Azure/VisionAnalyzeImage.md">Analyze Images with Azure AI Vision</a></b><br/>
+This project explores some of the image analysis and manipulation capabilities of the Azure AI Vision service. The service also includes capabilities for detecting objects and people, and other computer vision tasks.<br/>
+</td></tr>
+
+<tr><td>
 <img align="left" width="200" height="150" src="https://github.com/tipros/Portfolio/blob/main/Projects/Azure/Images/ContentSafety.jpg"/><b><a href="https://github.com/tipros/Portfolio/blob/main/Projects/Azure/ContentSafety.md">Implement Azure AI Content Safety</a></b><br/>
-This Azure AI project aims to demonstrate how the AI Content Safety feature can be setup and applied to prompts within Azure AI Foundy, and then applied within a a Python code.<br/>
+This Azure AI project aims to demonstrate how the AI Content Safety feature can be setup and applied to prompts within Azure AI Foundy, and then applied within a Python code.<br/>
 </td></tr>
 
 <tr><td>
