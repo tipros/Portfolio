@@ -14,10 +14,10 @@ The updated Python file with all the necessary changes code is [here.](https://g
 Image file to analyze:
 <p><img src="https://github.com/tipros/Portfolio/blob/main/Projects/Azure/Images/Vision/street.jpg"/></p>
 Running the code, command>python image-analysis.py images/street.jpg
-</br>
+</br></br>
 <blockquote>
-Results of the code executed:
-Analyzing image...
+Results of the code executed:</br>
+Analyzing image...</br>
 
 Caption:</br>
  Caption: 'a man walking a dog on a leash on a street' (confidence: 82.05%)</br></br>
