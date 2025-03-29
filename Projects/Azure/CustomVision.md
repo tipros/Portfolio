@@ -87,20 +87,26 @@ In the portal, the new images are displayed after the updload.
 <p><img src="https://github.com/tipros/Portfolio/blob/main/Projects/Azure/Images/Vision/customvisiondatauploaded.png"/></p>
 
 ### Publish Project
-<p><img src=""/></p>
-<p><img src=""/></p>
-<p><img src=""/></p>
-<p><img src=""/></p>
-<p><img src=""/></p>
-From VS Code, the predictive model will be tested.
-<p><img src=""/></p>
-<p><img src=""/></p>
-<p><img src=""/></p>
-<p><img src=""/></p>
-<p><img src=""/></p>
-<p><img src=""/></p>
-<p><img src=""/></p>
-<p><img src=""/></p>
-<p><img src=""/></p>
-<p><img src=""/></p>
-<p><img src=""/></p>
+To leverage the classification model, it needs to be published.
+<p><img src="https://github.com/tipros/Portfolio/blob/main/Projects/Azure/Images/Vision/customvisionpredictpublish.png"/></p>
+<p><img src="https://github.com/tipros/Portfolio/blob/main/Projects/Azure/Images/Vision/customvisionpredictpublishform.png"/></p>
+<p><img src="https://github.com/tipros/Portfolio/blob/main/Projects/Azure/Images/Vision/customvisionpredictpublished.png"/></p>
+
+### Test Data
+From VS Code, the classification model will be tested with the following data set.
+<p><img src="https://github.com/tipros/Portfolio/blob/main/Projects/Azure/Images/Vision/vscode-test-images.png"/></p>
+Run the command> python test-classifier.py
+</br>
+The following will show in the console:</br>
+IMG_TEST_1.jpg : apple (97%)</br>
+IMG_TEST_2.jpg : banana (100%)</br>
+IMG_TEST_3.jpg : orange (100%)</br>
+</br>
+From the portal, the results can also be seen.
+<p><img src="https://github.com/tipros/Portfolio/blob/main/Projects/Azure/Images/Vision/customvisionpredicteddata.png"/></p>
+<p><img src="https://github.com/tipros/Portfolio/blob/main/Projects/Azure/Images/Vision/customvisionpredictedapple.png"/></p>
+<p><img src="https://github.com/tipros/Portfolio/blob/main/Projects/Azure/Images/Vision/customvisionpredictedbanana.png"/></p>
+<p><img src="https://github.com/tipros/Portfolio/blob/main/Projects/Azure/Images/Vision/customvisionpredictedorange.png"/></p>
+
+
+
