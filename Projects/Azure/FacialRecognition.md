@@ -14,7 +14,7 @@ Code to test the 2 services is cloned from the lab 4 from https://github.com/Mic
 For the factial recognition, and exising AI service will be used. 
 </br>
 In the source code in path "\mslearn-ai-vision\Labfiles\04-face\Python\computer-vision", the .env file will be updated with the endpoint URL and API Key for the AI service.
-The updated code for the file can be found at [here](https://github.com/tipros/Portfolio/blob/main/Projects/Azure/Code/detect-people.py)
+The updated code for the file can be found at https://github.com/tipros/Portfolio/blob/main/Projects/Azure/Code/detect-people.py
 </br>
 Run the code with this command>python detect-people.py
 </br>
@@ -32,7 +32,7 @@ People in image:</br>
 For the factial recognition, a Face Service resource needs to be created. A wizard will guide through the creation of the resource.
 <p><img src="https://github.com/tipros/Portfolio/blob/main/Projects/Azure/Images/Vision/facemarket.png"/></p>
 In the source code in path "\mslearn-ai-vision\Labfiles\04-face\Python\face-api", the .env file will be updated with the endpoint URL and API Key for the AI service.
-The updated code for the file can be found at [here](https://github.com/tipros/Portfolio/blob/main/Projects/Azure/Code/analyze-faces.py)
+The updated code for the file can be found at https://github.com/tipros/Portfolio/blob/main/Projects/Azure/Code/analyze-faces.py
 </br>
 Run the code with this command>python analyze-faces.py
 </br>
