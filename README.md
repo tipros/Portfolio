@@ -3,7 +3,12 @@ This Portfolio is a compilation of all the Microsoft Azure AI, Data Science and 
 
 ## Learning Projects
 <table border="0" width="50%">
-
+ 
+<tr><td>
+<img align="left" width="200" height="200" src="https://github.com/tipros/Portfolio/blob/main/Projects/Azure/Images/Vision/OCRLogo.png"/><b><a href="https://github.com/tipros/Portfolio/blob/main/Projects/Azure/TextAnalysis.md">Text Analysis with OCR</a></b><br/>
+This project explores how to leverage the Azure AI Vision service to perform text analysis on images using OCR. With OCR, text analysis can be performed on monuments, streets, or even hand-written notes.<br/>
+</td></tr>
+ 
 <tr><td>
 <img align="left" width="200" height="150" src="https://github.com/tipros/Portfolio/blob/main/Projects/Azure/Images/Vision/Face_Detection_and_Recognition_Systems.jpg"/><b><a href="https://github.com/tipros/Portfolio/blob/main/Projects/Azure/FacialRecognition.md">Facial Recognition</a></b><br/>
 This project explores how to leverage the Azure AI Vision and the Face services for facial detection. The services enables the detection of people in an image, as well as returning a bounding box for its location.<br/>
