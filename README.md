@@ -5,8 +5,13 @@ This Portfolio is a compilation of all the Microsoft Azure AI, Data Science and 
 <table border="0" width="50%">
 
 <tr><td>
+<img align="left" width="200" height="150" src="https://github.com/tipros/Portfolio/blob/main/Projects/Azure/Images/Vision/Face_Detection_and_Recognition_Systems.jpg"/><b><a href="https://github.com/tipros/Portfolio/blob/main/Projects/Azure/FacialRecognition.md">Facial Recognition</a></b><br/>
+This project explores how to leverage the Azure AI Vision and the Face services for facial detection. The services enables the detection of people in an image, as well as returning a bounding box for its location.<br/>
+</td></tr>
+
+<tr><td>
 <img align="left" width="200" height="150" src="https://github.com/tipros/Portfolio/blob/main/Projects/Azure/Images/Vision/0_2FJGyym3YWJMAam-.jpg"/><b><a href="https://github.com/tipros/Portfolio/blob/main/Projects/Azure/CustomVision.md">Image Classification with Custom Vision</a></b><br/>
-This project explores how to create a custom vision resource to classify images. For this project, a custom vision project will be trained on 3 types of fruits, and then tested.<br/>
+This project explores how to create a custom vision resource to classify images. For this project, a custom vision project will be trained on 3 types of fruits, and then tested with a set of test images.<br/>
 </td></tr>
 
 <tr><td>
