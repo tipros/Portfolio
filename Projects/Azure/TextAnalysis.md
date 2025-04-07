@@ -14,9 +14,15 @@ Image Analysis Optical character recognition (OCR):
 In this exercise, OCR will be used for text recognition by using the Python code from Git Hub at https://github.com/MicrosoftLearning/mslearn-ai-services located in the folder Labfiles\05-ocr
 </br></br>
 The updated Python file is at https://github.com/tipros/Portfolio/blob/main/Projects/Azure/Code/read-text.py
-</br>
-
-<p><img src=""/></p>
-<p><img src=""/></p>
-<p><img src=""/></p>
-<p><img src=""/></p>
+</br></br>
+The .env file needs to updated with the endpoint URL and API key of the AI service that will be used.
+</br></br>
+The following images will be analyzed for text with OCR.
+<p><img src="https://github.com/tipros/Portfolio/blob/main/Projects/Azure/Images/Vision/Lincoln.jpg"/></p>
+<p><img src="https://github.com/tipros/Portfolio/blob/main/Projects/Azure/Images/Vision/Note.jpg"/></p>
+Below the terminal results of running the Python code:
+<p><img src="https://github.com/tipros/Portfolio/blob/main/Projects/Azure/Images/Vision/OCR-Results-01.png"/></p>
+<p><img src="https://github.com/tipros/Portfolio/blob/main/Projects/Azure/Images/Vision/OCR-Results-02.png"/></p>
+Below are the text detected in the images:
+<p><img src="https://github.com/tipros/Portfolio/blob/main/Projects/Azure/Images/Vision/text01.jpg"/></p>
+<p><img src="https://github.com/tipros/Portfolio/blob/main/Projects/Azure/Images/Vision/text02.jpg"/></p>
