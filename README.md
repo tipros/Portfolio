@@ -3,6 +3,11 @@ This Portfolio is a compilation of all the Microsoft Azure AI, Data Science and 
 
 ## Learning Projects
 <table border="0" width="50%">
+
+<tr><td>
+<img align="left" width="200" height="200" src="https://github.com/tipros/Portfolio/blob/main/Projects/Azure/Images/Vision/VideoLogo.jpg"/><b><a href="https://github.com/tipros/Portfolio/blob/main/Projects/Azure/VideoIndexer.md">Video Indexer</a></b><br/>
+This project aims to learn  how to use the Azure Video Indexer to extract custom insights from videos.In addition, the custom insights are also obtained through API calls.<br/>
+</td></tr>
  
 <tr><td>
 <img align="left" width="200" height="200" src="https://github.com/tipros/Portfolio/blob/main/Projects/Azure/Images/Vision/OCRLogo.png"/><b><a href="https://github.com/tipros/Portfolio/blob/main/Projects/Azure/TextAnalysis.md">Text Analysis with OCR</a></b><br/>
