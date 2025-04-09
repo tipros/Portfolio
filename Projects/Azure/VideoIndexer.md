@@ -14,6 +14,8 @@ In the timeline tab, different views can be applied for custom views.
 <p><img src="https://github.com/tipros/Portfolio/blob/main/Projects/Azure/Images/Vision/VideoIndexTimeLineViews.png"/></p>
 Key words can be used to search and filter.
 <p><img src="https://github.com/tipros/Portfolio/blob/main/Projects/Azure/Images/Vision/VideoIndexTimelineFilters.png"/></p>
+The video can be embeded to be displayed for playback and insight on an HTML page by selecting the appropriate widget to copy paste.
+<p><img src="https://github.com/tipros/Portfolio/blob/main/Projects/Azure/Images/Vision/VideoIndexEmbed.png"/></p>
 To call the API, the code is at https://github.com/MicrosoftLearning/mslearn-ai-vision under the folder 06-video-indexer folder
 </br>
 The following PowerShell script will need to be updated.
@@ -71,4 +73,3 @@ Results of the powershell script will look like this:</br>
                      "totalCount":  1
                  }
 
-    </pre>
