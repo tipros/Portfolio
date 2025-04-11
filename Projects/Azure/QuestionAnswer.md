@@ -12,13 +12,18 @@ Web sites containing frequently asked question (FAQ) documentation.
 Files containing structured text, such as brochures or user guides.
 
 ## Create an Azure AI Language Service
-<p><img src=""/></p>
-<p><img src=""/></p>
+<p><img src="https://github.com/tipros/Portfolio/blob/main/Projects/Azure/Images/Text/LanguageServiceMarket.png"/></p>
+<p><img src="https://github.com/tipros/Portfolio/blob/main/Projects/Azure/Images/Text/LanguageServiceOptions.png"/></p>
 
 ## Create Question Answer Pairs
-<p><img src=""/></p>
-<p><img src=""/></p>
+<p><img src="https://github.com/tipros/Portfolio/blob/main/Projects/Azure/Images/Text/LanguageServiceCognitivePortal.png"/></p>
+<p><img src="https://github.com/tipros/Portfolio/blob/main/Projects/Azure/Images/Text/LanguageServiceCognitivePortalNewProject.png"/></p>
+<p><img src="https://github.com/tipros/Portfolio/blob/main/Projects/Azure/Images/Text/LanguageServiceCognitivePortalProjectOptions.png"/></p>
+<p><img src="https://github.com/tipros/Portfolio/blob/main/Projects/Azure/Images/Text/LanguageServiceCognitivePortalKB.png"/></p>
+<p><img src="https://github.com/tipros/Portfolio/blob/main/Projects/Azure/Images/Text/LanguageServiceCognitivePortalChitChat.png"/></p>
+<p><img src="https://github.com/tipros/Portfolio/blob/main/Projects/Azure/Images/Text/LanguageServiceCognitivePortalKBDeploy.png"/></p>
+<p><img src="https://github.com/tipros/Portfolio/blob/main/Projects/Azure/Images/Text/LanguageServiceCognitivePortalKBDeployed.png"/></p>
 
 ## Call Language Service
-<p><img src=""/></p>
-<p><img src=""/></p>
+<p><img src="https://github.com/tipros/Portfolio/blob/main/Projects/Azure/Images/Text/ChatQandA.png"/></p>
+
