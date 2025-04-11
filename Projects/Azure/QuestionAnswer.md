@@ -42,6 +42,12 @@ Provide the following information for the new resource:
 Name: Learn FAQ Page
 URL: https://docs.microsoft.com/en-us/learn/support/faq
 </pre>
+
+</br>
+<b>Note</b>: A knowledge base question can be edited to have an alternate answer,
+or a follow-up prompt.
+</br>
+</br>
 Create a chit chat resource. This resource will be the default response if a question is
 not recognized from the question and answer pair.
 <p><img src="https://github.com/tipros/Portfolio/blob/main/Projects/Azure/Images/Text/LanguageServiceCognitivePortalChitChat.png"/></p>
@@ -50,5 +56,12 @@ Deploy the knowledge base.
 <p><img src="https://github.com/tipros/Portfolio/blob/main/Projects/Azure/Images/Text/LanguageServiceCognitivePortalKBDeployed.png"/></p>
 
 ## Call Language Service
+To test the chat bot, the sample code is cloned from GitHub at https://github.com/MicrosoftLearning/mslearn-ai-language
+</br></br>
+The updated Python code can be found at https://github.com/tipros/Portfolio/blob/main/Projects/Azure/Code/qna-app.py
+</br></br>
+With Python projects, the .env file has to be updated with endpoint URL and API key created in the Azure portal. The project name will is obtained from the Language Studio portal.
+</br>
+When executing the Python code, below is the sample bot conversation.
 <p><img src="https://github.com/tipros/Portfolio/blob/main/Projects/Azure/Images/Text/ChatQandA.png"/></p>
 
