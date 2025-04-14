@@ -5,6 +5,11 @@ This Portfolio is a compilation of all the Microsoft Azure AI, Data Science and 
 <table border="0" width="50%">
 
 <tr><td>
+<img align="left" width="200" height="130" src="https://github.com/tipros/Portfolio/blob/main/Projects/Azure/Images/Text/conversational-ai.png"/><b><a href="https://github.com/tipros/Portfolio/blob/main/Projects/Azure/ConversationalLanguageUnderstandingModel.md">Conversational AI</a></b><br/>
+This project delves into the creation of a natural language understanding application by utilizing the Azure AI Language service, with a focus on developing a conversational language understanding model. <br/>
+</td></tr>
+
+<tr><td>
 <img align="left" width="200" height="130" src="https://github.com/tipros/Portfolio/blob/main/Projects/Azure/Images/Text/ChatBotLogo.jpg"/><b><a href="https://github.com/tipros/Portfolio/blob/main/Projects/Azure/QuestionAnswer.md">Question and Answering with Azure AI Language</a></b><br/>
 This project seeks to explore the creation and deploymeent of a knowledge base resource for question-and-answer chat interactions, utilizing the Azure AI language service to call on the resource.<br/>
 </td></tr>
