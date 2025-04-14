@@ -19,6 +19,15 @@ A natural language understanding app is created using Azure AI Language. The fol
 For this project, an existing Azure AI Language resource will be used.
 </br>
 Go to the Language Studio portal at https://language.cognitive.azure.com/ and sign in using the Microsoft account associated with the Azure subscription.
+</br>
+
+If prompted to choose a Language resource, select the following settings:
+<pre>
+- Azure Directory: The Azure directory containing your subscription.
+- Azure subscription: Your Azure subscription.
+- Resource type: Language
+- Resource name: The Azure AI Language resource you created previously.
+</pre>
 
 ## Create Intent
 <p><img src="https://github.com/tipros/Portfolio/blob/main/Projects/Azure/Images/Text/langauge-label-itentlist.png"/></p>
