@@ -5,6 +5,12 @@ This Portfolio is a compilation of all the Microsoft Azure AI, Data Science and 
 <table border="0" width="50%">
 
 <tr><td>
+<img align="left" width="200" height="130" src="https://github.com/tipros/Portfolio/blob/main/Projects/Azure/Images/Text/nlp_classification.jpg"/><b><a href="https://github.com/tipros/Portfolio/blob/main/Projects/Azure/CustomClassification.md">Custom Text Classification</a></b><br/>
+This project explores how the Azure AI Language Service can be leveraged for custom text classification.
+ <br/>
+</td></tr>
+
+<tr><td>
 <img align="left" width="200" height="130" src="https://github.com/tipros/Portfolio/blob/main/Projects/Azure/Images/Text/conversational-ai.png"/><b><a href="https://github.com/tipros/Portfolio/blob/main/Projects/Azure/ConversationalLanguageUnderstandingModel.md">Conversational AI</a></b><br/>
 This project delves into the creation of a natural language understanding application by utilizing the Azure AI Language service, with a focus on developing a conversational language understanding model. <br/>
 </td></tr>
