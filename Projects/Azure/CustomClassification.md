@@ -43,7 +43,7 @@ Name: ClassifyLab
 Text primary language: English (US)
 Description: Custom text lab
 </pre>
-In the labeling section, the listt of files from the storage account are displayed.
+In the labeling section, the list of files from the storage account are displayed.
 <p><img src="https://github.com/tipros/Portfolio/blob/main/Projects/Azure/Images/Text/labeldata.png"/></p>
 Labels are added, and then each article is labeled accordingly.
 <p><img src="https://github.com/tipros/Portfolio/blob/main/Projects/Azure/Images/Text/labeldataclassified.png"/></p>
