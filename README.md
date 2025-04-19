@@ -3,7 +3,13 @@ This Portfolio is a compilation of all the Microsoft Azure AI, Data Science and 
 
 ## Learning Projects and Labs
 <table border="0" width="50%">
- 
+
+ <tr><td>
+<img align="left" width="200" height="130" src="https://github.com/tipros/Portfolio/blob/main/Projects/Azure/Images/Text/translator-logo.png"/><b><a href="https://github.com/tipros/Portfolio/blob/main/Projects/Azure/Translator.md">Translator</a></b><br/>
+This project explores how the Azure AI Translator Service can be leveraged for translate text from one language to another.
+ <br/>
+</td></tr>
+
 <tr><td>
 <img align="left" width="200" height="130" src="https://github.com/tipros/Portfolio/blob/main/Projects/Azure/Images/Text/Evolution-of-Named-Entity-Recognition-Systems-1536x878.jpg"/><b><a href="https://github.com/tipros/Portfolio/blob/main/Projects/Azure/CustomeNameEntity.md">Custom Named Entity Recognition</a></b><br/>
 This project explores how the Azure AI Language Service can be leveraged for named entity recognition.
