@@ -4,6 +4,12 @@ This Portfolio is a compilation of all the Microsoft Azure AI, Data Science and 
 ## Learning Projects and Labs
 <table border="0" width="50%">
 
+<tr><td>
+<img align="left" width="200" height="130" src="https://github.com/tipros/Portfolio/blob/main/Projects/Azure/Images/Speech/azure_aispeech.png"/><b><a href="https://github.com/tipros/Portfolio/blob/main/Projects/Azure/Speech.md">Speech Service</a></b><br/>
+This project explores how the Azure Speech Service can be leveraged for speech to text and text to speech capabilities.
+ <br/>
+</td></tr>
+
  <tr><td>
 <img align="left" width="200" height="130" src="https://github.com/tipros/Portfolio/blob/main/Projects/Azure/Images/Text/translator-logo.png"/><b><a href="https://github.com/tipros/Portfolio/blob/main/Projects/Azure/Translator.md">Translator</a></b><br/>
 This project explores how the Azure AI Translator Service can be leveraged for translate text from one language to another.
