@@ -3,7 +3,12 @@ This Portfolio is a compilation of all the Microsoft Azure AI, Data Science and 
 
 ## Learning Projects and Labs
 <table border="0" width="50%">
-
+ 
+<tr><td>
+<img align="left" width="200" height="130" src="https://github.com/tipros/Portfolio/blob/main/Projects/Azure/Images/Text/ChatBotLogo.jpg"/><b><a href="https://github.com/tipros/Portfolio/blob/main/Projects/Azure/ChatApp.md">Generative AI chat app</a></b><br/>
+In this project, the Azure AI Foundry SDK is used to create a simple chat app that connects to a project and chats with a language model.<br/>
+</td></tr>
+ 
 <tr><td>
 <img align="left" width="200" height="200" src="https://github.com/tipros/Portfolio/blob/main/Projects/Azure/Images/Vision/dall-e-3-sdk.png"/><b><a href="https://github.com/tipros/Portfolio/blob/main/Projects/Azure/DallE.md">Generate Images with AI</a></b><br/>
 This project explores how to generate images with Dall-E.
