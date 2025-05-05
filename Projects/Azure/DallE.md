@@ -11,7 +11,7 @@ Deploy a new model and select Dall-E. When testing in the playground, and enteri
 
 ## Call Speech Translator Service
 To test  the sample code is cloned from GitHub at https://github.com/MicrosoftLearning/mslearn-ai-vision 
-and the code is in the folder Labfiles/09-dalle-client
+and the code is in the folder Labfiles/09-dalle-client. The code is executed directly from the Azure portal through **Cloud Shell**.
 </br></br>
 The updated Python code can be found at https://github.com/tipros/Portfolio/blob/main/Projects/Azure/Code/dalle-client.py
 </br></br>
