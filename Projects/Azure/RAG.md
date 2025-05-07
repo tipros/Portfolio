@@ -6,6 +6,8 @@
 Azure OpenAI enables developers to implement Retrieval Augmented Generation (RAG) by connecting supporting AI chat models to their own data. 
 Those models can reference specific sources of data to ground the response, <b>augmenting</b> the capabilities of the AI model when it creates a response.
 
+<p><img src="https://github.com/tipros/Portfolio/blob/main/Projects/Azure/Images/Text/RAG-Pattern.png"/></p>
+
 ## Create Resources
 To complete this exercise, the following resources are required:
 <pre>
@@ -36,6 +38,13 @@ az cognitiveservices account deployment create \
    --sku-name "Standard" \
    --sku-capacity 5
 </pre>
+
+## Index Data
+To index with custom data, the sample PDFs are downloaded from https://aka.ms/own-data-brochure, and files uploaded to the storage account previously created.
+</br>
+From the Azure AI Search resource, select the menu <b>Import and vectorize data</b> to index the custom data. The rest of the wizard wil guide through the import.
+The data to import will be from the storage previously uploaded.
+<p><img src="https://github.com/tipros/Portfolio/blob/main/Projects/Azure/Images/Text/vectorizedata.png"/></p>
 
 ## Call the Resources
 To test  the sample code is cloned from GitHub at https://github.com/MicrosoftLearning/mslearn-openai
