@@ -7,6 +7,9 @@ The agent uses the built-in Code Interpreter tool to dynamically generate the co
 ## Create Resources
 To complete this exercise, a new project and agent will be created from https://ai.azure.com
 <p><img src="https://github.com/tipros/Portfolio/blob/main/Projects/Azure/Images/Agent/ai-foundry-home.png"/></p>
+<p><img src="https://github.com/tipros/Portfolio/blob/main/Projects/Azure/Images/Agent/ai-foundry-agents-playground.png"/></p>
+The model deployed will be the GPT-4o base model.
+<p><img src="https://github.com/tipros/Portfolio/blob/main/Projects/Azure/Images/Agent/ai-foundry_deploye_gpt4o.png"/></p>
 
 ## Call the Resources
 To test  the sample code is cloned from GitHub at https://github.com/MicrosoftLearning/mslearn-ai-agents
