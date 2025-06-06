@@ -15,7 +15,7 @@ The model deployed will be the GPT-4o base model.
 To test  the sample code is cloned from GitHub at https://github.com/MicrosoftLearning/mslearn-ai-agents
 and the code is in the folder ai-agents/Labfiles/02-build-ai-agent/Python. The code is executed in Azure through the CLI.
 </br></br>
-The updated Python code can be found at https://github.com/tipros/Portfolio/blob/main/Projects/Azure/Code/ownData.py
+The updated Python code can be found at https://github.com/tipros/Portfolio/blob/main/Projects/Azure/Code/agent.py
 </br></br>
 With Python projects, the .env file has to be updated with the project endpoint.
 </br>
