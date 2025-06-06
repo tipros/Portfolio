@@ -5,8 +5,13 @@ This Portfolio is a compilation of all the Microsoft Azure AI, Data Science and 
 <table border="0" width="50%">
 
 <tr><td>
+<img align="left" width="200" height="130" src="https://github.com/tipros/Portfolio/blob/main/Projects/Azure/Images/Agent/ai-agent-dekstop.png"/><b><a href="https://github.com/tipros/Portfolio/blob/main/Projects/Azure/DeployAgentCustom.md">Deploy an AI Agent using Custom Functions</a></b><br/>
+In this project,  an Azure AI Agent is created to use custom functions as a tool to complete tasks.<br/>
+</td></tr>
+
+<tr><td>
 <img align="left" width="200" height="130" src="https://github.com/tipros/Portfolio/blob/main/Projects/Azure/Images/Agent/ai-agent.jpg"/><b><a href="https://github.com/tipros/Portfolio/blob/main/Projects/Azure/DeployAgent.md">Deploy an AI Agent</a></b><br/>
-In this project, an Azure AI Agent Service will be used to create a simple agent <br/>
+In this project, an Azure AI Agent Service will be used to create a simple agent.<br/>
 </td></tr>
 
 <tr><td>
