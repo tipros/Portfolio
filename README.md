@@ -5,6 +5,11 @@ This Portfolio is a compilation of all the Microsoft Azure AI, Data Science and 
 <table border="0" width="50%">
 
 <tr><td>
+<img align="left" width="200" height="130" src="https://github.com/tipros/Portfolio/blob/main/Projects/Azure/Images/Agent/ai-agent.jpg"/><b><a href="https://github.com/tipros/Portfolio/blob/main/Projects/Azure/DeployAgent.md"></a>Deploy an AI Agent</b><br/>
+In this project, an Azure AI Agent Service will be used to create a simple agent <br/>
+</td></tr>
+
+<tr><td>
 <img align="left" width="200" height="130" src="https://github.com/tipros/Portfolio/blob/main/Projects/Azure/Images/Text/RAG-logo.png"/><b><a href="https://github.com/tipros/Portfolio/blob/main/Projects/Azure/RAG.md">RAG</a></b><br/>
 In this project, Retrieval Augmented Generation (RAG) is implemented with Azure OpenAI Service.<br/>
 </td></tr>
@@ -161,6 +166,8 @@ This Excel project aims to utilize Excel for tasks such as creating PIVOT tables
 [List at Credly](https://www.credly.com/users/tip-ros.9cb6993d)
 </br>
 [Microsoft Azure AI Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/TipRos-8388/A17EB8AF0FD9B7D4?sharingId=EEB24209AB278BA8) 
+</br>
+[Microsoft Learn Badges](https://learn.microsoft.com/en-us/users/tipros-8388/) 
 
 ## Short Courses
 [DeepLearning.AI - AI Python for Beginners: Basics of AI Python Coding](https://learn.deeplearning.ai/accomplishments/97c1a552-2f16-4362-aae7-433dea1023eb?usp=sharing)
