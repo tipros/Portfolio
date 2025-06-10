@@ -13,7 +13,7 @@ The model deployed will be the GPT-4o base model.
 
 ## Call the Resources
 To test  the sample code is cloned from GitHub at https://github.com/MicrosoftLearning/mslearn-ai-agents
-and the code is in the folder ai-agents/Labfiles/02-build-ai-agent/Python. The code is executed in Azure through the CLI.
+and the code is in the folder ai-agents/Labfiles/02-build-ai-agent/Python. The code is executed in Azure through the CLI and requires authentication in PowerShell with the command: az login 
 </br></br>
 The updated Python code can be found at https://github.com/tipros/Portfolio/blob/main/Projects/Azure/Code/agent.py
 </br></br>
