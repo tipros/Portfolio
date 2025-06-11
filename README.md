@@ -5,6 +5,11 @@ This Portfolio is a compilation of all the Microsoft Azure AI, Data Science and 
 <table border="0" width="50%">
 
 <tr><td>
+<img align="left" width="200" height="130" src="https://github.com/tipros/Portfolio/blob/main/Projects/Azure/Images/Agent/ai-gent-multi.jpg"/><b><a href="https://github.com/tipros/Portfolio/blob/main/Projects/Azure/DeployeAgentMulti.md">Develop a Multi-Agent Solution</a></b><br/>
+In this project, two AI agents using the Semantic Kernel SDK will be deployed to demonstrate the orchestration between the two agents.<br/>
+</td></tr>
+
+<tr><td>
 <img align="left" width="200" height="130" src="https://github.com/tipros/Portfolio/blob/main/Projects/Azure/Images/Agent/SK-roadmap-blog-1.png"/><b><a href="https://github.com/tipros/Portfolio/blob/main/Projects/Azure/DeployAgentSemanticKernel.md">Deploy an AI Agent with Semantic Kernel SDK</a></b><br/>
 In this project, an Azure AI Agent Service and Semantic Kernel SDK will be used to create an AI agent that processes expense claims.<br/>
 </td></tr>
