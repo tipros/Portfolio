@@ -2,7 +2,27 @@
 
 In this project, an agent that can use custom functions as a tool to complete tasks is created.
 A simple technical support agent is created that helps collect details of a technical problem and generate a support ticket.
- </br>
+
+<p>
+To use an AzureAIAgent:
+ <pre>
+- Create an Azure AI Foundry project.
+- Add the project connection string to Semantic Kernel application code (.env file for Python projects).
+- Create an AzureAIAgentSettings object.
+- Create an AzureAIAgent client.
+- Create an agent definition on the agent service provided by the client.
+- Create an agent based on the definition.
+</pre>
+</p>
+
+<p>
+To use plugins with AzureAIAgent:
+<pre>
+- Define plugin 
+- Add the plugin to agent
+- Invoke the plugin's functions
+</pre>
+</p>
 
 ## Create Resources
 To complete this exercise, a new project and agent will be created from https://ai.azure.com
