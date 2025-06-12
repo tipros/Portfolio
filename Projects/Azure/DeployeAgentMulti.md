@@ -2,13 +2,48 @@
 
 In this project, two AI agents using the Semantic Kernel SDK will be deployed to demonstrate the orchestration between the two agents: an Incident Manager agent and a DevOps agent.
 The Incidedent Manager reviews the log files and recommends a solution. The DevOps agent will receive the solution and call the function to perform the resolution.
- </br>
+</br>
+
+## Different Types of Agents
+The Semantic Kernel Agent Framework supports several different types of agents, including:
+<pre>
+- Azure AI Agent - provides advanced conversational capabilities
+- Chat CompletionAgent - designed for chat completion and conversation interfaces
+- OpenAIAssistantAgent - designed for more advanced capabilities and multi-step tasks
+</pre>
+
+Agent selection is essential, as it provides:
+<pre>
+- Accuracy
+- Efficiency
+- Scalability
+</pre>
+
+## Agent Framework Selection
+There are two types of agent models: <b>single-turn</b> and <b>multi-turn</b> conversations.
+<p>
+<b>Single-turn conversations</b>
+- Intent recognition: Identify the intent and match it with the most relevant agent.
+- Predefined rules: Configure routing rules to direct specific queries to designated agents.
+</p>
+
+<p>
+<b>Multi-turn conversations</b>
+- Context tracking: Conversation history is tracked to understand the user's intent and select the appropriate agent.
+- Dynamic switching: If topic shifts, the framework dynamically switches to an agent specializing in the new domain in the middle of the conversation
+</p>
+
+## Termination Strategy
+<pre>
+- Efficiency: Prevents endless loops or prolonged interactions.
+- User satisfaction: Concise and relevant responses provided to the user, avoiding overly long conversations.
+- Goal completion: Confirms when a task or conversation has completed.
+</pre>
 
 ## Create Resources
 To complete this exercise,a gpt-4o model will be created from https://ai.azure.com
 <p><img src="https://github.com/tipros/Portfolio/blob/main/Projects/Azure/Images/Agent/agent-semkernel-seachmodel.png"/></p>
 <p><img src="https://github.com/tipros/Portfolio/blob/main/Projects/Azure/Images/Agent/agent-semkernel-usethismodel.png"/></p>
-
 
 ## Call the Resources
 To test  the sample code is cloned from GitHub at https://github.com/MicrosoftLearning/mslearn-ai-agents
