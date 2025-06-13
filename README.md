@@ -5,8 +5,8 @@ This Portfolio is a compilation of all the Microsoft Azure AI, Data Science and 
 <table border="0" width="50%">
 
 <tr><td>
-<img align="left" width="200" height="130" src="https://github.com/tipros/Portfolio/blob/main/Projects/Azure/Images/Agent/ai-document-analysis.png"/><b><a href="">Analyze Documents with Pre-build Models</a></b><br/>
-In this project, a pre-built model is leveraged to analyze documents with AI intelligence documents.<br/>
+<img align="left" width="200" height="130" src="https://github.com/tipros/Portfolio/blob/main/Projects/Azure/Images/Agent/ai-document-analysis.png"/><b><a href="">Analyze Documents with Prebuilt Models</a></b><br/>
+In this project, a prebuilt model is leveraged to analyze documents with AI intelligence documents.<br/>
 </td></tr>
 
 <tr><td>
