@@ -190,11 +190,13 @@ This Excel project aims to utilize Excel for tasks such as creating PIVOT tables
 </table>
 
 ## Certificates
-[List at Credly](https://www.credly.com/users/tip-ros.9cb6993d)
+[Microsoft Certified: Azure AI Engineer Associate](https://learn.microsoft.com/en-us/users/tipros-8388/credentials/26dfe30683f15633) 
 </br>
 [Microsoft Azure AI Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/TipRos-8388/A17EB8AF0FD9B7D4?sharingId=EEB24209AB278BA8) 
 </br>
 [Microsoft Learn Badges](https://learn.microsoft.com/en-us/users/tipros-8388/) 
+</br>
+[List at Credly](https://www.credly.com/users/tip-ros.9cb6993d)
 
 ## Short Courses
 [DeepLearning.AI - AI Python for Beginners: Basics of AI Python Coding](https://learn.deeplearning.ai/accomplishments/97c1a552-2f16-4362-aae7-433dea1023eb?usp=sharing)
