@@ -190,7 +190,7 @@ This Excel project aims to utilize Excel for tasks such as creating PIVOT tables
 </table>
 
 ## Certificates
-[Microsoft Certified: Azure AI Engineer Associate](https://learn.microsoft.com/en-us/users/tipros-8388/credentials/26dfe30683f15633) 
+[Microsoft Azure AI Engineer Associate](https://learn.microsoft.com/en-us/users/tipros-8388/credentials/26dfe30683f15633) 
 </br>
 [Microsoft Azure AI Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/TipRos-8388/A17EB8AF0FD9B7D4?sharingId=EEB24209AB278BA8) 
 </br>
