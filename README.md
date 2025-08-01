@@ -1,6 +1,19 @@
  # Microsoft Azure AI, Data Analytics and Data Science Portfolio
 This Portfolio is a compilation of all the Microsoft Azure AI, Data Science and Data Analysis projects I have done for self-learning and hobby purposes.
 
+## Certificates
+[Microsoft Azure AI Engineer Associate](https://learn.microsoft.com/en-us/users/tipros-8388/credentials/26dfe30683f15633) 
+</br>
+[Microsoft Azure AI Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/TipRos-8388/A17EB8AF0FD9B7D4?sharingId=EEB24209AB278BA8) 
+</br>
+
+## Microsoft Applied Skills
+[Build a natural language processing solution with Azure AI Language](https://learn.microsoft.com/api/credentials/share/en-us/TipRos-8388/C4F36292BA548008?sharingId=EEB24209AB278BA8)
+
+Created a Custom Named Entity Recognition (NER) solution by training a model to extract domain-specific entities from text by defining entity labels and training the model.
+
+Built a Conversational Language Understanding (CLU) model by creating a CLU project to interpret user intents and extract entities. Tasks included: importing data, training and deploying the model, and connecting it to a conversational interface written in Python.
+
 ## Learning Projects and Labs
 <table border="0" width="50%">
 
@@ -189,11 +202,7 @@ This Excel project aims to utilize Excel for tasks such as creating PIVOT tables
 
 </table>
 
-## Certificates
-[Microsoft Azure AI Engineer Associate](https://learn.microsoft.com/en-us/users/tipros-8388/credentials/26dfe30683f15633) 
-</br>
-[Microsoft Azure AI Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/TipRos-8388/A17EB8AF0FD9B7D4?sharingId=EEB24209AB278BA8) 
-</br>
+## Additional Certificates
 [Microsoft Learn Badges](https://learn.microsoft.com/en-us/users/tipros-8388/) 
 </br>
 [List at Credly](https://www.credly.com/users/tip-ros.9cb6993d)
