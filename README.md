@@ -2,13 +2,13 @@
 This Portfolio is a compilation of all the Microsoft Azure AI, Data Science and Data Analysis projects I have done for self-learning and hobby purposes.
 
 ## Certificates
-[Microsoft Azure AI Engineer Associate](https://learn.microsoft.com/en-us/users/tipros-8388/credentials/26dfe30683f15633) 
+🏆 [Microsoft Azure AI Engineer Associate](https://learn.microsoft.com/en-us/users/tipros-8388/credentials/26dfe30683f15633) 
 </br>
-[Microsoft Azure AI Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/TipRos-8388/A17EB8AF0FD9B7D4?sharingId=EEB24209AB278BA8) 
+🏆 [Microsoft Azure AI Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/TipRos-8388/A17EB8AF0FD9B7D4?sharingId=EEB24209AB278BA8) 
 </br>
 
 ## Microsoft Applied Skills
-[Build a natural language processing solution with Azure AI Language](https://learn.microsoft.com/api/credentials/share/en-us/TipRos-8388/C4F36292BA548008?sharingId=EEB24209AB278BA8)
+📂 [Build a natural language processing solution with Azure AI Language](https://learn.microsoft.com/api/credentials/share/en-us/TipRos-8388/C4F36292BA548008?sharingId=EEB24209AB278BA8)
 
 Created a Custom Named Entity Recognition (NER) solution by training a model to extract domain-specific entities from text by defining entity labels and training the model.
 
