@@ -1,14 +1,21 @@
- # Microsoft Azure AI, Data Analytics and Data Science Portfolio
-This Portfolio is a compilation of all the Microsoft Azure AI, Data Science and Data Analysis projects I have done for self-learning and hobby purposes.
+ # <img align="left" src="https://github.com/tipros/Portfolio/blob/main/Projects/Images/RE1Mu3b.png"/> Azure AI, Data Analytics and Data Science Portfolio
+This portfolio is a compilation of all the Microsoft Azure AI, Data Science and Data Analysis projects I have done for self-learning and hobby purposes.
 
 ## Certificates
-🏆 [Microsoft Azure AI Engineer Associate](https://learn.microsoft.com/en-us/users/tipros-8388/credentials/26dfe30683f15633) 
+<img align="left" width="30" height="30" src="https://github.com/tipros/Portfolio/blob/main/Projects/Images/microsoft-certified-associate-badge.svg"/>
+
+[Microsoft Azure AI Engineer Associate](https://learn.microsoft.com/en-us/users/tipros-8388/credentials/26dfe30683f15633) 
 </br>
-🏆 [Microsoft Azure AI Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/TipRos-8388/A17EB8AF0FD9B7D4?sharingId=EEB24209AB278BA8) 
+
+<img align="left" width="30" height="30" src="https://github.com/tipros/Portfolio/blob/main/Projects/Images/microsoft-certified-fundamentals-badge.svg"/>
+
+[Microsoft Azure AI Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/TipRos-8388/A17EB8AF0FD9B7D4?sharingId=EEB24209AB278BA8) 
 </br>
 
 ## Microsoft Applied Skills
-📂 [Build a natural language processing solution with Azure AI Language](https://learn.microsoft.com/api/credentials/share/en-us/TipRos-8388/C4F36292BA548008?sharingId=EEB24209AB278BA8)
+<img align="left" width="30" height="30" src="https://github.com/tipros/Portfolio/blob/main/Projects/Images/applied-skill.svg"/>
+
+[Build a natural language processing solution with Azure AI Language](https://learn.microsoft.com/api/credentials/share/en-us/TipRos-8388/C4F36292BA548008?sharingId=EEB24209AB278BA8)
 
 Created a Custom Named Entity Recognition (NER) solution by training a model to extract domain-specific entities from text by defining entity labels and training the model.
 
