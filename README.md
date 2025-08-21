@@ -1,7 +1,7 @@
  # <img align="left" src="https://github.com/tipros/Portfolio/blob/main/Projects/Images/RE1Mu3b.png"/> Azure AI, Data Analytics and Data Science Portfolio
 This portfolio is a compilation of all the Microsoft Azure AI, Data Science and Data Analysis projects I have done for self-learning and hobby purposes.
 
-## Certificates
+## <img align="left" width="32" height="32" src="https://github.com/tipros/Portfolio/blob/main/Projects/Images/ms-certified.png"/> Certificates
 <img align="left" width="30" height="30" src="https://github.com/tipros/Portfolio/blob/main/Projects/Images/microsoft-certified-associate-badge.svg"/>
 
 [Microsoft Azure AI Engineer Associate](https://learn.microsoft.com/en-us/users/tipros-8388/credentials/26dfe30683f15633) 
@@ -11,20 +11,19 @@ This portfolio is a compilation of all the Microsoft Azure AI, Data Science and 
 
 [Microsoft Azure AI Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/TipRos-8388/A17EB8AF0FD9B7D4?sharingId=EEB24209AB278BA8) 
 </br>
+</br>
 
-## Microsoft Applied Skills
-<img align="left" width="30" height="30" src="https://github.com/tipros/Portfolio/blob/main/Projects/Images/applied-skill.svg"/>
+## <img align="left" width="30" height="30" src="https://github.com/tipros/Portfolio/blob/main/Projects/Images/applied-skill.svg"/> Microsoft Applied Skills
 
-[Build a natural language processing solution with Azure AI Language](https://learn.microsoft.com/api/credentials/share/en-us/TipRos-8388/C4F36292BA548008?sharingId=EEB24209AB278BA8)
+
+🏆 [Build a natural language processing solution with Azure AI Language](https://learn.microsoft.com/api/credentials/share/en-us/TipRos-8388/C4F36292BA548008?sharingId=EEB24209AB278BA8)
 
 Created a Custom Named Entity Recognition (NER) solution by training a model to extract domain-specific entities from text by defining entity labels and training the model.
-
-Built a Conversational Language Understanding (CLU) model by creating a CLU project to interpret user intents and extract entities. Tasks included: importing data, training and deploying the model, and connecting it to a conversational interface written in Python.
-
+Built a Conversational Language Understanding (CLU) model by creating a CLU project to interpret user intents and extract entities. 
+Tasks included: importing data, training and deploying the model, and connecting it to a conversational interface written in Python.
 </br>
-<img align="left" width="30" height="30" src="https://github.com/tipros/Portfolio/blob/main/Projects/Images/applied-skill.svg"/>
 
-[Implement knowledge mining with Azure AI Search](https://learn.microsoft.com/api/credentials/share/en-us/TipRos-8388/1ACFC228EB582DCB?sharingId=EEB24209AB278BA8)
+🏆 [Implement knowledge mining with Azure AI Search](https://learn.microsoft.com/api/credentials/share/en-us/TipRos-8388/1ACFC228EB582DCB?sharingId=EEB24209AB278BA8)
 
 Created an enrichment pipeline for which an Azure AI Search resource imports data on a daily basis from an Azure blob storage container. The pipeline
 applied cognitive skills such as entity recognition and key phrase extraction, enabling enriched content to be both searchable and retrievable through an intelligent search index.
