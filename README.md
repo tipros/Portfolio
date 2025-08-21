@@ -21,6 +21,14 @@ Created a Custom Named Entity Recognition (NER) solution by training a model to 
 
 Built a Conversational Language Understanding (CLU) model by creating a CLU project to interpret user intents and extract entities. Tasks included: importing data, training and deploying the model, and connecting it to a conversational interface written in Python.
 
+</br>
+<img align="left" width="30" height="30" src="https://github.com/tipros/Portfolio/blob/main/Projects/Images/applied-skill.svg"/>
+
+[Implement knowledge mining with Azure AI Search](https://learn.microsoft.com/api/credentials/share/en-us/TipRos-8388/1ACFC228EB582DCB?sharingId=EEB24209AB278BA8)
+
+Created an enrichment pipeline for which an Azure AI Search resource imports data on a daily basis from an Azure blob storage container. The pipeline
+applied cognitive skills such as entity recognition and key phrase extraction, enabling enriched content to be both searchable and retrievable through an intelligent search index.
+
 ## Learning Projects and Labs
 <table border="0" width="50%">
 
