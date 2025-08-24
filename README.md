@@ -33,6 +33,12 @@ applied cognitive skills such as entity recognition and key phrase extraction, e
 
 <tr><td>
 <img align="left" width="200" height="130" src="https://github.com/tipros/Portfolio/blob/main/Projects/Azure/Images/Agent/SK-roadmap-blog-1.png"/>
+ <b><a href="https://github.com/tipros/Portfolio/blob/main/Projects/Azure/SemanticKernelPlugins.md">Create Semantic Kernel Plugins</a></b><br/>
+In this exercise, the Semantic Kernel is used to create an AI assistant that can search for and book flights for a user.<br/>
+</td></tr>
+
+<tr><td>
+<img align="left" width="200" height="130" src="https://github.com/tipros/Portfolio/blob/main/Projects/Azure/Images/Agent/SK-roadmap-blog-1.png"/>
  <b><a href="https://github.com/tipros/Portfolio/blob/main/Projects/Azure/SemanticKernelObject.md">Build a Semantic Kernel object</a></b><br/>
 In this project, an Azure OpenAI resource is created and deployed to the Semantic Kernel.<br/>
 </td></tr>
