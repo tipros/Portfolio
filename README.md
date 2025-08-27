@@ -28,6 +28,11 @@ Tasks included: importing data, training and deploying the model, and connecting
 Created an enrichment pipeline for which an Azure AI Search resource imports data on a daily basis from an Azure blob storage container. The pipeline
 applied cognitive skills such as entity recognition and key phrase extraction, enabling enriched content to be both searchable and retrievable through an intelligent search index.
 
+
+🏆 [Develop generative AI apps with Azure OpenAI and Semantic Kernel](https://learn.microsoft.com/api/credentials/share/en-us/TipRos-8388/E90A8526D628089A?sharingId=EEB24209AB278BA8)
+
+Updated AI agents code snippets in C# that leveraged the Azure OpenAI Service and the Semantic Kernel SDK.
+
 ## Learning Projects and Labs
 <table border="0" width="50%">
 
